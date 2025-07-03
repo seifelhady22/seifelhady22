@@ -4,8 +4,9 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
 
-[![whats aap](https://img.shields.io/badge/Seif%20Elhady-grey?style=flat&logo=whats_aap)](https://wa.me/201014535251)
-[![telegram badge](https://img.shields.io/badge/Saif%20Alhadi-grey?style=flat&logo=telegram)](https://t.me/your_telegram_username)
+[![whats aap](https://img.shields.io/badge/Whats%20App-grey?style=flat&logo=whats_aap)](https://wa.me/201014535251)
+[![Linkedin](https://img.shields.io/badge/Linkedin%20-grey?style=flat&logo=whats_aap)]([https://wa.me/201014535251](https://www.linkedin.com/in/seif-elhady-48a45a2b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+
 
 </div>
 
