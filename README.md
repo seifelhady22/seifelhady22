@@ -5,7 +5,7 @@
 
 
 [![whats aap](https://img.shields.io/badge/Whats%20App-grey?style=flat&logo=whats_aap)](https://wa.me/201014535251)
-[![Linkedin](https://img.shields.io/badge/Linkedin%20-grey?style=flat&logo=whats_aap)](www.linkedin.com/in/seif-elhady-48a45a2b4)
+
 
 
 </div>
