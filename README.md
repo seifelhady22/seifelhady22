@@ -2,7 +2,8 @@
 <h1 align="center">👋 HELLO PROGRAMMERS, I'M SEIF</h1>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
-
+<h3 align="center"I am a Data Analyst specializing in extracting actionable insights from complex datasets using tools</h3>
+<h3 align="center"like Python, SQL, Pandas, and Power BI to drive informed business decisions</h3>
 
 [![whats aap](https://img.shields.io/badge/Whats%20App-grey?style=flat&logo=whats_aap)](https://wa.me/201014535251)
 
