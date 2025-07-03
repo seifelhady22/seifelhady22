@@ -33,7 +33,7 @@ class About extends Me {
     "Languages" : { "Python", "SQL" },
     "Libraries" : { "Pandas", "NumPy", "Matplotlib" },
     "DataViz" : { "Power BI", "Excel" },
-    "Tools" : { "Git", "VS Code","Excel" },
+    "Tools" : { "Git", "VS Code" },
     "Platforms" : { "Windows", "Linux" }
   };
 }
