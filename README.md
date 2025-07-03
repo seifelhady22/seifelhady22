@@ -2,10 +2,22 @@
 <h1 align="center">👋 HELLO PROGRAMMERS, I'M SEIF</h1>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
+<p align="center">
+  <b>I am a Data Analyst specializing in extracting actionable insights from complex datasets using tools like Python, SQL, Pandas, and Power BI to drive informed business decisions.</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/seif-elhady-48a45a2b4" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://wa.me/201014535251" target="_blank">
+    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 
 
 
-[![whats aap](https://img.shields.io/badge/Whats%20App-grey?style=flat&logo=whats_aap)](https://wa.me/201014535251)
 
 
 
