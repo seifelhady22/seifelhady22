@@ -4,7 +4,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
 
-[![whats aap](https://img.shields.io/badge/Seif%20Elhady-grey?style=flat&logo=whatsaap)](https://wa.me/201014535251)
+[![whats aap](https://img.shields.io/badge/Seif%20Elhady-grey?style=flat&logo=whats_aap)](https://wa.me/201014535251)
 [![telegram badge](https://img.shields.io/badge/Saif%20Alhadi-grey?style=flat&logo=telegram)](https://t.me/your_telegram_username)
 
 </div>
